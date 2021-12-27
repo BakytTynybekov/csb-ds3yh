@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bakyttynybekov.github.io/csb-ds3yh/static/css/main.51ae29bc.chunk.css",
+    "main.js": "https://bakyttynybekov.github.io/csb-ds3yh/static/js/main.14693f71.chunk.js",
+    "main.js.map": "https://bakyttynybekov.github.io/csb-ds3yh/static/js/main.14693f71.chunk.js.map",
+    "runtime-main.js": "https://bakyttynybekov.github.io/csb-ds3yh/static/js/runtime-main.dc4f7f9c.js",
+    "runtime-main.js.map": "https://bakyttynybekov.github.io/csb-ds3yh/static/js/runtime-main.dc4f7f9c.js.map",
+    "static/js/2.adb1a804.chunk.js": "https://bakyttynybekov.github.io/csb-ds3yh/static/js/2.adb1a804.chunk.js",
+    "static/js/2.adb1a804.chunk.js.map": "https://bakyttynybekov.github.io/csb-ds3yh/static/js/2.adb1a804.chunk.js.map",
+    "index.html": "https://bakyttynybekov.github.io/csb-ds3yh/index.html",
+    "static/css/main.51ae29bc.chunk.css.map": "https://bakyttynybekov.github.io/csb-ds3yh/static/css/main.51ae29bc.chunk.css.map",
+    "static/js/2.adb1a804.chunk.js.LICENSE.txt": "https://bakyttynybekov.github.io/csb-ds3yh/static/js/2.adb1a804.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc4f7f9c.js",
+    "static/js/2.adb1a804.chunk.js",
+    "static/css/main.51ae29bc.chunk.css",
+    "static/js/main.14693f71.chunk.js"
+  ]
+}
